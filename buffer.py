@@ -14,3 +14,5 @@ class Buffer:
         return self.buff
 
 print('ver1')
+
+print('ver2')
